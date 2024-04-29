@@ -34,22 +34,24 @@
 
 ## 🧾 개인 프로젝트 현황판
 ✅ **완료** / ☑️ **미완료** <br/>
-☑️ 암호화 + 복호화 API <br/>
-☑️ DB에만 파라미터 넣어서 프로그램 작업하는 API <br/>
-☑️ API에서 ️ 사용자 설정 예외 <br/>
-☑️ 스케줄러 API <br/>
-☑️ 프로퍼티에만 파라미터 넣어 사용하는 API <br/>
-☑️ 게시판 API <br/>
-☑️ 로그인 API <br/>
-☑️ 게시판 + 로그인 API <br/>
-☑️ JWT API <br/>
-☑️ OAuth 2.0 API <br/>
-☑️ OAuth 2.0 리소스 API <br/>
-☑️ PWA API <br/>
-☑️ SOAP API <br/>
-☑️ ️SOAP 연동 API <br/>
-☑️ REST + DB API <br/>
-☑️ ️REST API 연동 API <br/>
+|진행도|공개여부|프로젝트|해당 프로젝트 상세 내용|비공개 사유|
+|---|---|---|---------|-----|
+|☑️|비공개|암호화 + 복호화 API|암호화 푸는 방법 찾아보기|악용 우려|
+|☑️|공개|첫 구동 시에만 DB에서 파라미터 저장해서 사용하는 API|소스코드에 파라미터값 노출 차단하기||
+|☑️|공개|사용자 설정 Exception Form API|Try-Catch문에서 생기는 예외 개인적으로 차단하는 방법 학습||
+|☑️|공개|스케줄러 API|자동화 작업 API||
+|☑️|공개|properties에 파라미터 넣어 사용하는 API|class 파일에 파라미터 남기지 말기||
+|☑️|공개|게시판 API|기본적인 게시판 API||
+|☑️|공개|로그인 API|기본적인 로그인 API : SQL injection 미포함||
+|☑️|공개|JWT API|Json Web Token||
+|☑️|공개|OAuth 2.0 API|인증 및 보안 API||
+|☑️|공개|OAuth 2.0 리소스 API|OAuth에서 인증 후 진입하는 리소스 API||
+|☑️|공개|PWA API|웹페이지로 어플만들기||
+|☑️|공개|SOAP API|JAX-WS API||
+|☑️|비공개|SOAP 연동 API|WSDL을 참고하여 연동하는 방식|타 API 연동 우려|
+|☑️|공개|REST + DB API|기본적인 REST API||
+|☑️|비공개|REST API 연동 API|기본적인 REST API와의 연동처리하는 API|타 API 연동 우려|
+|☑️|미정|미정|미정|미정|
 
 ## 💻 내 컴퓨터 환경
 |부품|상세내용|
