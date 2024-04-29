@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 # 또자 프로젝트 저장소
-'''java
+```java
 public class ttoja
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello, world!");
+        
     }
 }
-'''
+```
 ## 🔋 Skills
 ### 💿 OS
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
