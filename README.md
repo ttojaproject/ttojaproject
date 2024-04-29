@@ -2,15 +2,11 @@
 
 # 또자 프로젝트 저장소
 
-## 연락처
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-ttoja825@gmail.com
-
-## Skills
-### OS
+## 🔋 Skills
+### 💿 OS
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![window](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-### Others
+### ⚙️ Others
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![prizi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
@@ -27,7 +23,7 @@ ttoja825@gmail.com
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
-### UnSkills : 학습 예정
+### 🪫 UnSkills : 학습 예정
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -55,7 +51,7 @@ ttoja825@gmail.com
 ☑️ REST + DB API <br/>
 ☑️ ️REST API 연동 API <br/>
 
-# 💻 내 컴퓨터 환경
+## 💻 내 컴퓨터 환경
 |부품|상세내용|
 |------|---|
 |OS|![window](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
