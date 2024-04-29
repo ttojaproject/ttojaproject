@@ -32,7 +32,7 @@
 ![nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![jwt](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-## 🧾 계획 현황판
+## 🧾 개인 프로젝트 현황판
 ✅ **완료** / ☑️ **미완료** <br/>
 ☑️ 암호화 + 복호화 API <br/>
 ☑️ DB에만 파라미터 넣어서 프로그램 작업하는 API <br/>
