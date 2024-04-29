@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 # 또자 프로젝트 저장소
+
 ## 연락처
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ttoja825@gmail.com
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+ttoja825@gmail.com
 
 ## Skills
 ### OS
@@ -34,23 +37,23 @@
 ![jwt](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 ## 🧾 계획 현황판
-✅ **완료** / ☑️ **미완료**
-☑️ 암호화 + 복호화 API
-☑️ DB에만 파라미터 넣어서 프로그램 작업하는 API
-☑️ API에서 ️ 사용자 설정 예외
-☑️ 스케줄러 API
-☑️ 프로퍼티에만 파라미터 넣어 사용하는 API
-☑️ 게시판 API
-☑️ 로그인 API
-☑️ 게시판 + 로그인 API
-☑️ JWT API
-☑️ OAuth 2.0 API
-☑️ OAuth 2.0 리소스 API
-☑️ PWA API
-☑️ SOAP API
-☑️ ️SOAP 연동 API
-☑️ REST + DB API
-☑️ ️REST API 연동 API
+✅ **완료** / ☑️ **미완료** <br/>
+☑️ 암호화 + 복호화 API <br/>
+☑️ DB에만 파라미터 넣어서 프로그램 작업하는 API <br/>
+☑️ API에서 ️ 사용자 설정 예외 <br/>
+☑️ 스케줄러 API <br/>
+☑️ 프로퍼티에만 파라미터 넣어 사용하는 API <br/>
+☑️ 게시판 API <br/>
+☑️ 로그인 API <br/>
+☑️ 게시판 + 로그인 API <br/>
+☑️ JWT API <br/>
+☑️ OAuth 2.0 API <br/>
+☑️ OAuth 2.0 리소스 API <br/>
+☑️ PWA API <br/>
+☑️ SOAP API <br/>
+☑️ ️SOAP 연동 API <br/>
+☑️ REST + DB API <br/>
+☑️ ️REST API 연동 API <br/>
 
 # 💻 내 컴퓨터 환경
 |부품|상세내용|
