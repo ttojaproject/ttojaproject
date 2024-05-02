@@ -57,7 +57,7 @@ public class ttoja
 |☑️|공개|PWA API|웹페이지로 어플만들기|
 |☑️|공개|SOAP API|JAX-WS API|
 |☑️|비공개|SOAP 연동 API|WSDL을 참고하여 연동하는 방식|
-|☑️|공개|REST + DB API|기본적인 REST API|
+|☑️|공개|REST + DB API|기본적인 REST API : 3-tier 테스트용|
 |☑️|비공개|REST API 연동 API|기본적인 REST API와의 연동처리하는 API|
 |☑️|미정|미정|미정|
 
