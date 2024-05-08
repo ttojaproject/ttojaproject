@@ -66,10 +66,7 @@ public class ttoja
 |------|---|
 |OS|![window](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)|
 |CPU|![cpu](https://img.shields.io/badge/Intel-x-0071C5?style=for-the-badge&logo=intel&logoColor=white)|
-|Graphic Card|![grapic](https://img.shields.io/badge/NVIDIA-x-76B900?style=for-the-badge&logo=nvidia&logoColor=white)|
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-<!---
+|Graphic Card|![grapic](https://함
 ttojap project/ttojap project 는 GitHub 프로필에 'README.md ' (이 파일) 이 나타나므로 ✨ Special ✨ Repository 입니다.
 미리보기 링크를 클릭하여 변경 사항을 확인할 수 있습니다.
 https://coding-factory.tistory.com/620 : 마크 블록 표기 가이드
