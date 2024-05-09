@@ -59,6 +59,7 @@ public class ttoja
 |☑️|비공개|SOAP 연동 API|WSDL을 참고하여 연동하는 방식|
 |☑️|공개|REST + DB API|기본적인 REST API : 3-tier 테스트용|
 |☑️|비공개|REST API 연동 API|기본적인 REST API와의 연동처리하는 API|
+|☑️|공개|쿠키 활용 api|쿠키를 생성하고 생성된 쿠키 사용하는 API|
 |☑️|미정|미정|미정|
 
 ## 💻 내 컴퓨터 환경
